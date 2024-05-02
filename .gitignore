@@ -1,0 +1,12 @@
+build/
+node_modules
+node_modules.*
+.next/
+yarn.lock
+package-lock.json
+.DS_Store
+.idea
+.code
+.project
+.env.local
+.env.production

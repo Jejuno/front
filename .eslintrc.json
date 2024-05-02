@@ -1,0 +1,10 @@
+{
+  "root": true,
+  "plugins": ["import", "react", "jsx-a11y", "react-hooks"],
+  "extends": ["airbnb", "next", "plugin:import/recommended", "plugin:react/recommended"],
+  "rules": {},
+  "env": {
+    "browser": true,
+    "node": true
+  }
+}
